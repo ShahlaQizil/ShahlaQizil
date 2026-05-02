@@ -64,12 +64,6 @@ Built a logistic-regression model in Python to improve bankruptcy prediction acc
 - **Data Analytics** : Amsterdam Data Academy *(2025)*
 - **Microsoft:** Foundations of AI and Machine Learning *(2026)*, AI and Machine Learning Algorithms and Techniques *(2026)*
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahlaQizil&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahlaQizil&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
 
 ---
 
